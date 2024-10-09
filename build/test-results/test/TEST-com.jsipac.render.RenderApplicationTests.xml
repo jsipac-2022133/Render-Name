@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.jsipac.render.RenderApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-10-09T16:19:53" hostname="DESKTOP-TOQ9M9J" time="1.351">
+  <properties/>
+  <testcase name="contextLoads()" classname="com.jsipac.render.RenderApplicationTests" time="1.351"/>
+  <system-out><![CDATA[10:19:50.240 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.jsipac.render.RenderApplicationTests]: RenderApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+10:19:50.447 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.jsipac.render.RenderApplication for test class com.jsipac.render.RenderApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v3.3.4)
+
+2024-10-09T10:19:51.118-06:00  INFO 18416 --- [render] [    Test worker] c.jsipac.render.RenderApplicationTests   : Starting RenderApplicationTests using Java 17.0.12 with PID 18416 (started by admin in C:\Users\admin\Downloads\RENDER GRADLE\render)
+2024-10-09T10:19:51.120-06:00  INFO 18416 --- [render] [    Test worker] c.jsipac.render.RenderApplicationTests   : No active profile set, falling back to 1 default profile: "default"
+2024-10-09T10:19:53.854-06:00  INFO 18416 --- [render] [    Test worker] c.jsipac.render.RenderApplicationTests   : Started RenderApplicationTests in 3.104 seconds (process running for 4.952)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
